@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /amine.github.io
+exclude: ['README.MD']
